@@ -1,34 +1,31 @@
-## ❣ Hellow world 👋
+# ❣ Hello world ❣
 
-<b>Hello my name is Andy</b>
-<ul>
-  <li>👩‍💻 I'm student of Computer Systems</li>
-  <li>💻 Linux </li>
-</ul>
+<b>▷ Basic data ◁</b>
+  <br>
+  <ul type="circle">
+     <li> 👩‍💻️ 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 </li>
+     <li> 💻 OS: 𝚄𝚋𝚞𝚗𝚝𝚞 </li>
+     <li> ⌨️ Focus: 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜 </li>
+  </ul>
+
+### ✰ My work ✰
 <div>
-  <!--- Banner de calsificacion --->
-  <img height="130 cm" src = "https://github-readme-stats.vercel.app/api?username=0draS0&hide=stars,contribs&show_icons=true&theme=radical"/>
-  
-  <!--- Banner de lenguajes --->
-  <img height="130 cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0draS0&layout=compact&theme=radical"/>
+	<img aling ="center" height="120 cm" src="https://github-readme-stats.vercel.app/api?username=0draS0&hide=stars,contribs&show_icons=true&theme=radical"/>
+	<img height="120 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0draS0&layout=compact&theme=radical"/>
 </div>
 
-<!--- Banner de lenguajes con iconos 
+### ✰ Another skills ✰
+<!--- Banner de lenguajes con iconos --->
 <div style = "display: inline_block"><br>
-	<img aling="center" alt = "py-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-	<img aling="center" alt = "c-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+	<img alt = "mysql-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+        <img alt = "php-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+        <img alt = "jupyter-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+        <img alt = "html-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+	<img alt = "c-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+
 </div>
---->
 
-
-<div><br>
-<em> Skills for my future</em>
-	<br>
-	<img aling="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=inkscape&logoColor=fefae0&label=Inkscape&message=In progress&color=blueviolet"/>
-	<br>
-	<img aling="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linux&logoColor=fefae0&label=Linux&message=In progress&color=blueviolet"/>
-	<br>
-	<img aling="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=php&logoColor=fefae0&label=PHP&message=In progress&color=blueviolet"/>
-	<br>
-	<img aling="center" src="https://img.shields.io/static/v1?style=for-the-badge&logo=phpmyadmin&logoColor=fefae0&label=PHPMyAdmin&message=In progress&color=blueviolet"/>
+### ✰ Social media ✰
+<div>
+        <a href="https://discord.com/channels/0draS0"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 </div>
