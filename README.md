@@ -28,7 +28,10 @@
 </div>
 <br>
 
-### ✰ Social media ✰
+<!--- 
+### ✰ Social media ✰ 
+
 <div>
         <img src="https://img.shields.io/badge/Discord-0draS0%230467-dbc9f1?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </div>
+-->
