@@ -20,6 +20,7 @@
 <!--- Banner de lenguajes con iconos --->
 <div style = "display: inline_block">
 	<img alt = "mysql-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+	<img alt = "sql-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
         <img alt = "php-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 	<img alt = "html-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
         <img alt = "jupyter-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
@@ -28,10 +29,8 @@
 </div>
 <br>
 
-<!--- 
 ### ✰ Social media ✰ 
 
 <div>
         <img src="https://img.shields.io/badge/Discord-0draS0%230467-dbc9f1?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </div>
--->
