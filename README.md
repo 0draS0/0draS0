@@ -13,7 +13,7 @@
 ### ✰ My work ✰
 <div>
 	<img height="120 cm" src="https://github-readme-stats.vercel.app/api?username=0draS0&hide=stars,contribs&show_icons=true&theme=tokyonight"/>
-	<img height="120 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0draS0&layout=compact&theme=tokyonight"/>
+	<img height="120 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0draS0&theme=tokyonight"/> <!-- &layout=compact -->
 </div>
 <br>
 
