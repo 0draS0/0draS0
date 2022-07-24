@@ -12,24 +12,24 @@
 
 ### ✰ My work ✰
 <div>
-	<img height="120 cm" src="https://github-readme-stats.vercel.app/api?username=0draS0&hide=stars,contribs&show_icons=true&theme=tokyonight"/>
-	<img height="120 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0draS0&layout=compact&theme=tokyonight"/> <!-- &layout=compact -->
+	<img height="140 cm" src="https://github-readme-stats.vercel.app/api?username=0draS0&hide=stars,contribs&show_icons=true&theme=tokyonight"/>
+	<img height="140 cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0draS0&layout=compact&theme=tokyonight"/> <!-- &layout=compact -->
 </div>
 <br>
 
 ### ✰ Skills and tools  ✰
 <!--- Banner de lenguajes con iconos --->
 <div style = "display: inline_block">
-	<img alt = "mysql-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-	<img alt = "sql-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-        <!-- <img alt = "php-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
-	<img alt = "html-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-	<img alt = "r-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-	<img alt = "py-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-	<!-- <img alt = "c-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/> -->
-        <img alt = "jupyter-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-	<img alt = "rstudio-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" />
-	<img alt = "latex-logo" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+	<img alt = "mysql-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+	<img alt = "sql-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+        <!-- <img alt = "php-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> -->
+	<img alt = "html-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+	<img alt = "r-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+	<img alt = "py-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+	<!-- <img alt = "c-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/> -->
+        <img alt = "jupyter-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+	<img alt = "rstudio-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" />
+	<img alt = "latex-logo" height ="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 </div>
 <br>
 
